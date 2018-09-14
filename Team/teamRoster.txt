@@ -15,3 +15,9 @@ name: Devin Hight
 hobby: Video Games, Snowboarding, Water Skiing
 
 something interesting about yourself: I have visited four European countries.
+
+Name: Brian Martinez
+
+Hobbies: Video Games, Anime, Partying, Dancing
+
+Something interesting about me: I'm the only child.
