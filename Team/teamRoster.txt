@@ -9,3 +9,9 @@ name: Joshua Saavedra
 hobby: playing video games, hiking, napping, traveling
 
 something interesting about yourself: I willingly dunked myself into a freezing cold river at 6 am every day for seven days in order to earn a patch while I was a boy scout.
+
+name: Devin Hight
+
+hobby: Video Games, Snowboarding, Water Skiing
+
+something interesting about yourself: I have visited four European countries.
