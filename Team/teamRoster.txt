@@ -3,3 +3,9 @@ Name: Jay Arellano
 Hobbies: hiking, collecting shoes
 
 Something interesting about me: I have an obsession for sneakers.
+
+name: Joshua Saavedra
+
+hobby: playing video games, hiking, napping, traveling
+
+something interesting about yourself: I willingly dunked myself into a freezing cold river at 6 am every day for seven days in order to earn a patch while I was a boy scout.
